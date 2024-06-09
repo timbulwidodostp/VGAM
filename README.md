@@ -1,6 +1,8 @@
 # VGAM
 Fitting Vector Generalized Linear and Additive Models Use VGAM With (In) R Software
 
+https://www.youtube.com/watch?v=R_njuU4Bpvc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
